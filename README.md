@@ -9,8 +9,8 @@ This repository contains implementations of various cryptographic algorithms, in
   - Hill
   - Vignere
   - PlayFair
-  - RailFence
-  - Row Transposition
+  - Rail Fence
+  - Row Column Transposition
 
 - **Symmetric Ciphers**
   - AES
