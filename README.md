@@ -1,6 +1,6 @@
 # Cryptography
 
-This repository contains implementations of various cryptographic algorithms, including symmetric ciphers, asymmetric ciphers, hash functions, and message authentication codes. Each algorithm includes both client and server implementations for demonstration purposes.
+This repository contains implementations of various cryptographic algorithms, including Classical ciphers, symmetric ciphers, asymmetric ciphers, hash functions, and message authentication codes. Each algorithm includes both client and server implementations.
 
 ## Algorithms Included
 
