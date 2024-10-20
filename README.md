@@ -4,6 +4,14 @@ This repository contains implementations of various cryptographic algorithms, in
 
 ## Algorithms Included
 
+- **Classical Ciphers**
+  - Caesar
+  - Hill
+  - Vignere
+  - PlayFair
+  - RailFence
+  - Row Transposition
+
 - **Symmetric Ciphers**
   - AES
   - DES
